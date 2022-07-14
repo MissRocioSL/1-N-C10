@@ -1,2 +1,2 @@
-# 1-N-C10
+# trex
 CLASE C10 miPrimerPrograma
